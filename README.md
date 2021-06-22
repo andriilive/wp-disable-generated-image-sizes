@@ -2,6 +2,7 @@
 
 `wp-disable-image-sizes` plugin completely and for real disables WordPress &amp; plugins image sizes generation.
 
++  Supports `woocommerce` and any other plugins
 +  No need for configuration. Activate and go
 +  Tested with `Wordpress 5.7.2` & `php 8.0`
 +  Only 3 lines of code
