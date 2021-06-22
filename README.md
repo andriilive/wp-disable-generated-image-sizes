@@ -17,6 +17,10 @@
 
 ## Install & Activate plugin
 
+### Composer (Bedrock Install)
+
+`composer require andriilive/wp-disable-generated-image-sizes` at root
+
 ### ZIP Upload
 
 1. Download `wp-disable-generated-image-sizes.zip` from [here](https://github.com/andriilive/wp-disable-generated-image-sizes/archive/refs/tags/0.1.0.zip)
