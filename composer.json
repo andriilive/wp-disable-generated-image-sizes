@@ -1,0 +1,16 @@
+{
+  "name": "andriilive/wp-disable-generated-image-sizes",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/andriilive/wp-disable-generated-image-sizes",
+  "authors": [
+    {
+      "name": "DigitalAndy",
+      "homepage": "https://github.com/andriilive"
+    }
+  ],
+  "type": "wordpress-muplugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}
