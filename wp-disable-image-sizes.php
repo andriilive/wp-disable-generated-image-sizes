@@ -3,7 +3,7 @@
  * Plugin Name:  Wp Disable Generated image sizes
  * Plugin URI:   https://github.com/andriilive/wp-disable-image-sizes
  * Description:  Disable Wordpress & plugins image sizes. No need for configuration, activate and go
- * Version:      1.0.0
+ * Version:      0.1.0
  * Author:       DigitalAndy
  * Author URI:   https://github.com/andriilive
  * License:      MIT License
