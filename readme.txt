@@ -6,7 +6,7 @@ Tested up to: 5.7.2
 Requires PHP: 7.1
 Stable tag: 0.1.0
 License: Apache License 2.0
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License URI: http://www.apache.org/licenses/LICENSE-2.0
 
 Disable Wordpress & plugins image sizes. No need for configuration, activate and go
 
