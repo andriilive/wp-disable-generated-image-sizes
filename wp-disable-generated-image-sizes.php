@@ -6,7 +6,7 @@
  * Version:      0.1.0
  * Author:       DigitalAndy
  * Author URI:   https://github.com/andriilive
- * License:      MIT License
+ * License:      Apache License 2.0
  *
  * @package         Wp_Disable_Image_Sizes
  */

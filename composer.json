@@ -9,6 +9,7 @@
       "homepage": "https://github.com/andriilive"
     }
   ],
+  "license": "Apache-2.0",
   "type": "wordpress-muplugin",
   "require": {
     "php": ">=5.6"
