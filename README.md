@@ -1,5 +1,12 @@
 # Disable generated image sizes plugin for WordPress
 
+## Regular plugin vs mu-plugin
+
+- as mu-plugin (recommended): [main branch](https://github.com/andriilive/wp-disable-generated-image-sizes)
+- as regular plugin: [plugin branch](https://github.com/andriilive/wp-disable-generated-image-sizes/tree/plugin)
+
+To install as regular plugin use `composer require andriilive/wp-disable-generated-image-sizes:dev-plugin`
+
 `wp-disable-generated-image-sizes` plugin completely and for real disables WordPress &amp; plugins image sizes generation with no need for configuration
 
 +  Last update: June 2021
