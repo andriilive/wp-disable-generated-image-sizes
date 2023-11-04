@@ -10,7 +10,7 @@
     }
   ],
   "license": "Apache-2.0",
-  "type": "wordpress-muplugin",
+  "type": "wordpress-plugin",
   "require": {
     "php": ">=5.6"
   }
