@@ -46,3 +46,29 @@ add_action( 'init', function () {
     remove_image_size( '1536x1536' );             // 2 x Medium Large (1536 x 1536)
     remove_image_size( '2048x2048' );             // 2 x Large (2048 x 2048)
 } );
+
+// Update the WP Media Options Settings
+function wp_media_options_update() {
+
+    if (get_option('_wp_media_options_updated') != 1) {
+        // Set image sizes to 0 x 0
+        update_option('thumbnail_size_w', 0);
+        update_option('thumbnail_size_h', 0);
+        update_option('medium_size_w', 0);
+        update_option('medium_size_h', 0);
+        update_option('large_size_w', 0);
+        update_option('large_size_h', 0);
+        update_option('medium_large_size_w', 0);
+        update_option('medium_large_size_h', 0);
+
+        // Disable cropping
+        update_option('thumbnail_crop', null);
+        update_option('uploads_use_yearmonth_folders', 1);
+        // update_option('image_default_size', null);
+
+        // Set _wp_media_options_updated to yes
+        update_option('_wp_media_options_updated', 1);
+    }
+}
+
+add_action('after_setup_theme', 'wp_media_options_update');
