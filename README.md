@@ -1,5 +1,8 @@
 # Disable generated image sizes plugin for WordPress
 
+[![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine)&nbsp;
+[![GitHub @andriilive](https://img.shields.io/github/followers/andriilive?label=@andriilive&style=social)](https://www.github.com/andriilive)
+
 ## Regular plugin vs mu-plugin
 
 - as mu-plugin (recommended): [main branch](https://github.com/andriilive/wp-disable-generated-image-sizes)
